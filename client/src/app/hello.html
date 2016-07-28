@@ -1,0 +1,56 @@
+<!--<pre>{{$ctrl.apps | json}}</pre>-->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2">
+      <div id="wrapper" style="text-align: center">    
+        <div id="yourdiv" style="display: inline-block;">App Store:</div>
+      </div>
+      <html>
+      <BODY BGCOLOR="#00FFFF">
+
+      <!--Sidebar content-->
+
+      <p>
+        Search:
+        <input ng-model="$ctrl.query" />
+      </p>
+
+      <p>
+        Sort by:
+        <select ng-model="$ctrl.orderProp">
+          <option value="AppID">AppID</option>
+          <option value="Origin">Origin</option>
+          <option value="State">State</option>
+          <option value="URL">URL</option>
+          <option value="Version">Version</option>
+        </select>
+      </p>
+
+    </div>
+    <div class="col-md-10">
+      <!--Body content-->
+
+<table border="1">
+<tr ng-repeat="app in $ctrl.apps | filter: $ctrl.query | orderBy: $ctrl.orderProp" >
+<td>{{app.Description}}</td>
+<td>{{app.AppID}}</td>
+<td>{{app.Origin}}</td>
+<td>{{app.State}}</td>
+<td>{{app.URL}}</td>
+<td>{{app.Version}}</td>
+</tr>
+</table>
+      <ul class="phones">
+        <li ng-repeat="app in $ctrl.apps | filter: $ctrl.query | orderBy: $ctrl.orderProp" 
+            class="thumbnail app-list-item">
+          <a href="#!/apps/{{app.AppID}}">{{app.Description}}</a>
+          <p>{{app.AppID}}</p>
+          <p>{{app.Origin}}</p>
+          <p>{{app.State}}</p>
+          <p>{{app.URL}}</p>
+          <p>{{app.Version}}</p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
