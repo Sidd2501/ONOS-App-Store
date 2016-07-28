@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b1d0c74-c543-4ff7-b287-f29d8540f3c4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/flaskr.iml" afterPath="$PROJECT_DIR$/.idea/flaskr.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flaskr.py" afterPath="$PROJECT_DIR$/flaskr.py" />
+    </list>
+    <ignored path="flaskr.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="flaskr" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="schema.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schema.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flaskr.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flaskr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="84" column="136" selection-start-line="84" selection-start-column="136" selection-end-line="84" selection-end-column="136" />
+              <folding>
+                <element signature="e#18#27#0" expanded="true" />
+                <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+                <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+                <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+                <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+                <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+                <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+                <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+                <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+                <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+                <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+                <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+                <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+                <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+                <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+                <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+                <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+                <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+                <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+                <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+                <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+                <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/static/schema.sql" />
+        <option value="$PROJECT_DIR$/flaskr_tests.py" />
+        <option value="$PROJECT_DIR$/schema.sql" />
+        <option value="$PROJECT_DIR$/flaskr.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flaskr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flaskr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flaskr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flaskr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flaskr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flaskr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flaskr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="flaskr" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flaskr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flaskr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flaskr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flaskr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flaskr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b1d0c74-c543-4ff7-b287-f29d8540f3c4" name="Default" comment="" />
+      <created>1467150204228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1467150204228</updated>
+      <workItem from="1467150206386" duration="5954000" />
+      <workItem from="1467827184583" duration="10840000" />
+      <workItem from="1467924094322" duration="951000" />
+      <workItem from="1468858772385" duration="912000" />
+      <workItem from="1468860540853" duration="471000" />
+      <workItem from="1468862357090" duration="107000" />
+      <workItem from="1468872054749" duration="1482000" />
+      <workItem from="1468873983488" duration="706000" />
+      <workItem from="1468880481594" duration="1327000" />
+      <workItem from="1468882453810" duration="296000" />
+      <workItem from="1468947361310" duration="527000" />
+      <workItem from="1468949419769" duration="1014000" />
+      <workItem from="1468958296678" duration="289000" />
+      <workItem from="1468962188636" duration="1837000" />
+      <workItem from="1468964550148" duration="1526000" />
+      <workItem from="1468966546050" duration="944000" />
+      <workItem from="1468970232836" duration="127000" />
+      <workItem from="1469032305912" duration="1247000" />
+      <workItem from="1469039220621" duration="1827000" />
+      <workItem from="1469041265987" duration="1403000" />
+      <workItem from="1469046643062" duration="1283000" />
+      <workItem from="1469048569126" duration="1115000" />
+      <workItem from="1469050463378" duration="1895000" />
+      <workItem from="1469052404088" duration="1409000" />
+      <workItem from="1469054247215" duration="1201000" />
+      <workItem from="1469056886471" duration="196000" />
+      <workItem from="1469119407419" duration="1769000" />
+      <workItem from="1469121540664" duration="627000" />
+      <workItem from="1469123444694" duration="1030000" />
+      <workItem from="1469125294087" duration="1179000" />
+      <workItem from="1469127142129" duration="537000" />
+      <workItem from="1469130512457" duration="473000" />
+      <workItem from="1469132983591" duration="685000" />
+      <workItem from="1469135750235" duration="833000" />
+      <workItem from="1469138055936" duration="223000" />
+      <workItem from="1469140159232" duration="118000" />
+      <workItem from="1469143384300" duration="1600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49960000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gerrit" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28200972" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16720517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3908228" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+            <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+            <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+            <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+            <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8a2807de-8048-4002-9fb9-839a165892c5/console.sql" />
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppStore.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+            <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+            <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+            <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+            <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+            <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+            <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+            <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+            <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8a2807de-8048-4002-9fb9-839a165892c5/console.sql" />
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="66" column="171" selection-start-line="66" selection-start-column="171" selection-end-line="66" selection-end-column="171" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+            <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+            <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+            <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+            <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+            <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+            <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8a2807de-8048-4002-9fb9-839a165892c5/console.sql" />
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="62" column="37" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+            <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+            <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+            <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+            <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+            <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+            <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="62" column="40" selection-start-line="62" selection-start-column="40" selection-end-line="62" selection-end-column="40" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+            <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+            <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8a2807de-8048-4002-9fb9-839a165892c5/console.sql" />
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppStore.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema1.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="84" column="136" selection-start-line="84" selection-start-column="136" selection-end-line="84" selection-end-column="136" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+            <marker date="1469144429000" expanded="true" signature="2131:2214" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2218" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2230" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2233" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2247" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2292" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2304" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2307" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2131:2309" ph="insert into Applications... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2680" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2698" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2775" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2796" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="2648:2802" ph="update Appli... " />
+            <marker date="1469144429000" expanded="true" signature="3864:3900" ph="delete from " />
+            <marker date="1469144429000" expanded="true" signature="3870:3900" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4111" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4122" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4085:4123" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4666:4692" ph="select * fro... Applications" />
+            <marker date="1469144429000" expanded="true" signature="4674:4692" ph="insert into Applications... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
